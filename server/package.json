@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "onvif": "^0.7.4",
+    "pg": "^8.11.5",
+    "pg-pool": "^3.6.2",
+    "rtsp-ffmpeg": "^0.0.17",
+    "socket.io": "^4.7.5",
+    "ws": "^8.17.1"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

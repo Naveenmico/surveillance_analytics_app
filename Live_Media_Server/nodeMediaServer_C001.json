@@ -1,0 +1,12 @@
+{
+    "data":
+    [
+        {
+            "app":"live",
+            "mode":"static",
+            "edge":"rtsp://admin:admin1234@10.33.1.106:554",
+            "name":"C001",
+            "rtsp_transport":"tcp"
+        }
+    ]
+}
